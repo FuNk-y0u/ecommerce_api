@@ -1,0 +1,31 @@
+2023-07-21 13:45:07.8216 Info Message Template Auto Format enabled
+2023-07-21 13:45:08.1130 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 13:45:08.1439 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 13:45:08.2842 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:45:08.5038 Info Shutdown() called. Logger closing...
+2023-07-21 13:45:08.5038 Info Closing old configuration.
+2023-07-21 13:45:08.5827 Info Logger has been closed down.
+2023-07-21 13:47:33.4414 Info Message Template Auto Format enabled
+2023-07-21 13:47:33.6234 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 13:47:33.6434 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 13:47:33.7085 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:50:59.1731 Info Message Template Auto Format enabled
+2023-07-21 13:50:59.3014 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 13:50:59.3205 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 13:50:59.3890 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:51:00.6168 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:54:17.3716 Info Message Template Auto Format enabled
+2023-07-21 13:54:17.5419 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 13:54:17.5564 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 13:54:17.6183 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:54:18.6517 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:55:35.5104 Info Message Template Auto Format enabled
+2023-07-21 13:55:35.7097 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 13:55:35.7365 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 13:55:35.8309 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 13:55:37.3201 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 14:19:24.7323 Info Message Template Auto Format enabled
+2023-07-21 14:19:24.8984 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-07-21 14:19:24.8984 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-07-21 14:19:24.9826 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config
+2023-07-21 14:19:26.2736 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\.NET Training\assignments\project-Api\ecommerce\bin\Debug\net5.0\nlog.config

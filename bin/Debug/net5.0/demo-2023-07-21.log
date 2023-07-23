@@ -1,0 +1,106 @@
+2023-07-21 13:45:08.3895||DEBUG|ecommerce.Program|runing server  
+2023-07-21 13:47:33.7444||DEBUG|ecommerce.Program|runing server  
+2023-07-21 13:50:59.4342||DEBUG|ecommerce.Program|runing server  
+2023-07-21 13:51:00.6712||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-07-21 13:51:01.2572||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ecommerce 
+2023-07-21 13:51:01.2776||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-07-21 13:51:01.2776||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-07-21 13:51:01.2776||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-07-21 13:51:01.2776||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-07-21 13:51:01.2776||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.NET Training\assignments\project-Api\ecommerce 
+2023-07-21 13:51:01.2776||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-07-21 13:51:01.3536||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/index.html - - 
+2023-07-21 13:51:01.4175||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-07-21 13:51:01.4175||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:51:01.6199||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-07-21 13:51:01.8540||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-07-21 13:51:01.8540||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/index.html - - - 200 - text/html;charset=utf-8 507.0946ms 
+2023-07-21 13:51:01.8540||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686497656799237" disconnecting. 
+2023-07-21 13:51:01.8889||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - 
+2023-07-21 13:51:01.9131||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 23.8599ms 
+2023-07-21 13:51:01.9131||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686536311504897" disconnecting. 
+2023-07-21 13:51:01.9428||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_vs/browserLink - - 
+2023-07-21 13:51:02.0220||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628920798740483" disconnecting. 
+2023-07-21 13:51:02.0220||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 80.1685ms 
+2023-07-21 13:51:02.4290||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - 
+2023-07-21 13:51:02.4290||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:51:02.6013||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 172.2506ms 
+2023-07-21 13:51:02.6013||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456108620185601" disconnecting. 
+2023-07-21 13:54:17.6549||DEBUG|ecommerce.Program|runing server  
+2023-07-21 13:54:18.6981||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-07-21 13:54:19.1715||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ecommerce 
+2023-07-21 13:54:19.1872||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-07-21 13:54:19.1872||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-07-21 13:54:19.1872||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-07-21 13:54:19.1872||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-07-21 13:54:19.1872||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.NET Training\assignments\project-Api\ecommerce 
+2023-07-21 13:54:19.1872||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-07-21 13:54:19.2405||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/index.html - - 
+2023-07-21 13:54:19.2839||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-07-21 13:54:19.2839||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:54:19.4463||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-07-21 13:54:19.6640||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-07-21 13:54:19.6640||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686497656799239" disconnecting. 
+2023-07-21 13:54:19.6640||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/index.html - - - 200 - text/html;charset=utf-8 431.5399ms 
+2023-07-21 13:54:19.7050||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - 
+2023-07-21 13:54:19.7266||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571296696041475" disconnecting. 
+2023-07-21 13:54:19.7266||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 22.8927ms 
+2023-07-21 13:54:19.7646||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_vs/browserLink - - 
+2023-07-21 13:54:19.8687||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686544901439495" disconnecting. 
+2023-07-21 13:54:19.8687||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 104.2413ms 
+2023-07-21 13:54:20.2623||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - 
+2023-07-21 13:54:20.2623||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:54:20.4304||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686501951766541" disconnecting. 
+2023-07-21 13:54:20.4304||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 170.2072ms 
+2023-07-21 13:55:35.9007||DEBUG|ecommerce.Program|runing server  
+2023-07-21 13:55:37.3731||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-07-21 13:55:37.9259||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ecommerce 
+2023-07-21 13:55:37.9411||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-07-21 13:55:37.9411||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-07-21 13:55:37.9529||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-07-21 13:55:37.9529||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-07-21 13:55:37.9529||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.NET Training\assignments\project-Api\ecommerce 
+2023-07-21 13:55:37.9529||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-07-21 13:55:38.0001||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/index.html - - 
+2023-07-21 13:55:38.0447||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-07-21 13:55:38.0447||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:55:38.2125||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-07-21 13:55:38.4547||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-07-21 13:55:38.4668||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/index.html - - - 200 - text/html;charset=utf-8 461.4357ms 
+2023-07-21 13:55:38.4668||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318170877953" disconnecting. 
+2023-07-21 13:55:38.4953||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - 
+2023-07-21 13:55:38.5202||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686532016537607" disconnecting. 
+2023-07-21 13:55:38.5202||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 25.7100ms 
+2023-07-21 13:55:38.5320||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_vs/browserLink - - 
+2023-07-21 13:55:38.5922||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318170877955" disconnecting. 
+2023-07-21 13:55:38.5922||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.4315ms 
+2023-07-21 13:55:38.9162||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - 
+2023-07-21 13:55:38.9162||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 13:55:39.0551||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686540606472197" disconnecting. 
+2023-07-21 13:55:39.0551||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 140.2757ms 
+2023-07-21 14:19:25.0257||DEBUG|ecommerce.Program|runing server  
+2023-07-21 14:19:26.3275||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-07-21 14:19:26.8877||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ecommerce 
+2023-07-21 14:19:26.9199||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-07-21 14:19:26.9322||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-07-21 14:19:26.9322||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-07-21 14:19:26.9322||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-07-21 14:19:26.9322||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.NET Training\assignments\project-Api\ecommerce 
+2023-07-21 14:19:26.9322||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-07-21 14:19:27.0101||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/index.html - - 
+2023-07-21 14:19:27.1056||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-07-21 14:19:27.1056||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 14:19:27.5075||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-07-21 14:19:27.8517||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-07-21 14:19:27.8731||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - 
+2023-07-21 14:19:27.8731||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/index.html - - - 200 - text/html;charset=utf-8 857.8963ms 
+2023-07-21 14:19:27.8731||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/_vs/browserLink - - 
+2023-07-21 14:19:27.8731||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686506246733841" disconnecting. 
+2023-07-21 14:19:27.8954||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686523426603019" disconnecting. 
+2023-07-21 14:19:27.9328||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 44.2237ms 
+2023-07-21 14:19:28.0654||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571339645714439" disconnecting. 
+2023-07-21 14:19:28.0654||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 186.8999ms 
+2023-07-21 14:19:28.1767||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - 
+2023-07-21 14:19:28.1767||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-21 14:19:28.4238||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44353/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 247.1383ms 
+2023-07-21 14:19:28.4238||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686501951766545" disconnecting. 
